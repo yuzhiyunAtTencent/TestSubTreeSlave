@@ -5,3 +5,5 @@ change slave from master repo
 change slave from master repo again
 
 change slave from slave repo
+
+change slave from slave 2
